@@ -84,6 +84,8 @@
 
 
 
+  
+
 
   <link rel="alternate" href="/atom.xml" title="書劍堂" type="application/atom+xml" />
 
@@ -346,8 +348,20 @@
           
 
 
-          
-
+          <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'jqgsninimo',
+  repo: 'sjt-blog-comment-system',
+  oauth: {
+    client_id: '95c68fedb5e03e0f1efb',
+    client_secret: '3edc461827cdf86a9a1b70d5b3c3fdca395d5c46',
+  },
+})
+gitment.render('container')
+</script>
         </div>
         
           
