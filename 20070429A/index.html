@@ -563,20 +563,23 @@ var jiathis_config={
           
 
 
-          <div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  owner: 'jqgsninimo',
-  repo: 'jqgsninimo.github.io',
-  oauth: {
-    client_id: '95c68fedb5e03e0f1efb',
-    client_secret: '3edc461827cdf86a9a1b70d5b3c3fdca395d5c46',
-  },
-})
-gitment.render('container')
-</script>
+          
+	<div id="container"></div>
+	<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+	
+	<script>
+	var gitalk = new Gitalk({
+    clientID: '95c68fedb5e03e0f1efb',
+    clientSecret: '3edc461827cdf86a9a1b70d5b3c3fdca395d5c46',
+    repo: 'jqgsninimo.github.io',
+    owner: 'jqgsninimo',
+    admin: ['jqgsninimo'],
+  })
+  
+  gitalk.render('gitalk-container')
+	</script>
+
         </div>
         
           
