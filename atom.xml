@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.jqgsninimo.top/"/>
-  <updated>2018-12-22T15:23:22.143Z</updated>
+  <updated>2018-12-25T17:51:21.540Z</updated>
   <id>https://www.jqgsninimo.top/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="https://www.jqgsninimo.top/20090228A/"/>
     <id>https://www.jqgsninimo.top/20090228A/</id>
     <published>2009-02-28T08:06:08.000Z</published>
-    <updated>2018-12-22T15:23:22.143Z</updated>
+    <updated>2018-12-25T17:51:21.540Z</updated>
     
-    <content type="html"><![CDATA[<p>近日，为了更好地使用<a href="https://www.wireshark.org" target="_blank" rel="noopener">Wireshark</a>对研发中项目进行报文动态分析，尝试编写Wireshark解析器插件，学习了<a href="https://www.wireshark.org/docs/wsdg_html_chunked/" target="_blank" rel="noopener">Wireshark开发者向导</a>中的<a href="https://www.wireshark.org/docs/wsdg_html_chunked/ChDissectAdd.html" target="_blank" rel="noopener"><code>9.2.添加一个基础的解析器</code></a>一节，顺便翻译了这部分内容。<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>近日，为了更好地使用<a href="https://www.wireshark.org" target="_blank" rel="noopener">Wireshark</a>对研发中项目进行报文动态分析，尝试编写Wireshark解析器插件，学习了<a href="https://www.wireshark.org/docs/wsdg_html_chunked/" target="_blank" rel="noopener">Wireshark开发者向导</a>中的<a href="https://www.wireshark.org/docs/wsdg_html_chunked/ChDissectAdd.html" target="_blank" rel="noopener"><code>9.2.添加一个基础的解析器</code></a>一节，顺便翻译了这部分内容。<br><a id="more"></a></p>
 <hr>
 <h3 id="9-2-添加一个基础的解析器"><a href="#9-2-添加一个基础的解析器" class="headerlink" title="9.2. 添加一个基础的解析器"></a>9.2. 添加一个基础的解析器</h3><p>下面我们将循序渐进地设计一个基础的解析器。首先我们来虚构一个简单的网络协议<code>foo</code>。它依次包含如下构成要素：</p>
 <ul>
@@ -81,7 +81,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;近日，为了更好地使用&lt;a href=&quot;https://www.wireshark.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wireshark&lt;/a&gt;对研发中项目进行报文动态分析，尝试编写Wireshark解析器插件，学习了&lt;a href=&quot;https://www.wireshark.org/docs/wsdg_html_chunked/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wireshark开发者向导&lt;/a&gt;中的&lt;a href=&quot;https://www.wireshark.org/docs/wsdg_html_chunked/ChDissectAdd.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;code&gt;9.2.添加一个基础的解析器&lt;/code&gt;&lt;/a&gt;一节，顺便翻译了这部分内容。&lt;br&gt;
+      &lt;p&gt;近日，为了更好地使用&lt;a href=&quot;https://www.wireshark.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wireshark&lt;/a&gt;对研发中项目进行报文动态分析，尝试编写Wireshark解析器插件，学习了&lt;a href=&quot;https://www.wireshark.org/docs/wsdg_html_chunked/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wireshark开发者向导&lt;/a&gt;中的&lt;a href=&quot;https://www.wireshark.org/docs/wsdg_html_chunked/ChDissectAdd.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;code&gt;9.2.添加一个基础的解析器&lt;/code&gt;&lt;/a&gt;一节，顺便翻译了这部分内容。&lt;br&gt;
     
     </summary>
     
