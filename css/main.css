@@ -2008,7 +2008,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09f491;
+  background: #c44e46;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3325,14 +3325,6 @@ ul.breadcrumb li+li:last-child {
 }
 .fa-custom {
   font-family: "iconfont" !important;
-}
-.fa-custom1 {
-  font-family: "iconfont" !important;
-  font-size: inherit;
-  font-style: normal;
-  padding: 2px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 .zhihu:before {
   content: "\e6ba";
