@@ -1277,7 +1277,7 @@ spaceWidth=5像素 \nonumber
 
   <script>
     var GUEST = ['nick','mail','link'];
-    var guest = 'nick,mail';
+    var guest = 'nick,mail,link';
     guest = guest.split(',').filter(function (item) {
       return GUEST.indexOf(item)>-1;
     });
@@ -1291,7 +1291,8 @@ spaceWidth=5像素 \nonumber
         avatar:'wavatar',
         meta:guest,
         pageSize:'10' || 10,
-        visitor: true
+        visitor: true,
+        avatarForce: true
     });
   </script>
 
