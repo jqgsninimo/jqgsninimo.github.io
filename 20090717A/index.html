@@ -128,7 +128,7 @@
 <meta property="og:description" content="今天参照纸质费用报销单制作了相应的Excel电子版，以备不时之需。制作过程不算顺利，主要问题是Excel行高列宽与实际长度间的对应关系。整理所得成文。">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://i.loli.net/2019/01/10/5c3637be6e2ba.png">
-<meta property="og:updated_time" content="2019-01-15T11:28:47.405Z">
+<meta property="og:updated_time" content="2019-01-15T11:34:01.344Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Excel行高列宽及其它">
 <meta name="twitter:description" content="今天参照纸质费用报销单制作了相应的Excel电子版，以备不时之需。制作过程不算顺利，主要问题是Excel行高列宽与实际长度间的对应关系。整理所得成文。">
@@ -455,7 +455,7 @@
                 
                   <span class="post-meta-item-text">更新于</span>
                 
-                <time title="修改时间：2019-01-15 19:28:47" itemprop="dateModified" datetime="2019-01-15T19:28:47+08:00">2019-01-15</time>
+                <time title="修改时间：2019-01-15 19:34:01" itemprop="dateModified" datetime="2019-01-15T19:34:01+08:00">2019-01-15</time>
               
             
           </span>
@@ -620,7 +620,7 @@
 <ul>
 <li>charWidth=(pixel-spaceWidth)/columnWidth</li>
 </ul>
-<p>不同的是，这里的<code>charWidth</code>和<code>spaceWidth</code>以像素为单位。<br>由于在鼠标拖拽更改列宽时，Excel同时提供了列的及时列宽值和像素值，所以采集两组<code>(columnWidth, pixel)</code>值对是轻而易举的。<br>列出二元一次方程组，解得<code>charWidth</code>和<code>spaceWidth</code>，即可获得下面的等量式：</p>
+<p>不同的是，这里的<code>charWidth</code>和<code>spaceWidth</code>以像素为单位。<br>由于在鼠标拖拽更改列宽时，Excel同时提供了列的实时列宽值和像素值，所以采集两组<code>(columnWidth, pixel)</code>值对是轻而易举的。<br>列出二元一次方程组，解得<code>charWidth</code>和<code>spaceWidth</code>，即可获得下面的等量式：</p>
 <ul>
 <li>n列宽=charWidth*n+spaceWidth像素</li>
 </ul>
