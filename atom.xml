@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.jqgsninimo.top/"/>
-  <updated>2019-01-15T11:34:01.344Z</updated>
+  <updated>2019-01-15T11:36:19.727Z</updated>
   <id>https://blog.jqgsninimo.top/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://blog.jqgsninimo.top/20090717A/"/>
     <id>https://blog.jqgsninimo.top/20090717A/</id>
     <published>2009-07-16T17:56:55.000Z</published>
-    <updated>2019-01-15T11:34:01.344Z</updated>
+    <updated>2019-01-15T11:36:19.727Z</updated>
     
     <content type="html"><![CDATA[<p>今天参照纸质费用报销单制作了相应的Excel电子版，以备不时之需。制作过程不算顺利，主要问题是Excel行高列宽与实际长度间的对应关系。整理所得成文。<br><a id="more"></a></p>
 <h3 id="A4纸的尺寸"><a href="#A4纸的尺寸" class="headerlink" title="A4纸的尺寸"></a>A4纸的尺寸</h3><p>A4纸是我们日常办公中使用频率最高的纸张类型了。但为什么要叫A4纸呢？看了下图您就明白了：<br><img src="https://i.loli.net/2019/01/10/5c3637be6e2ba.png" alt="A系列纸张格式"></p>
