@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.jqgsninimo.top/"/>
-  <updated>2019-01-23T15:25:11.727Z</updated>
+  <updated>2019-01-15T11:36:19.727Z</updated>
   <id>https://blog.jqgsninimo.top/</id>
   
   <author>
@@ -14,38 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>层层细雨层层暖·缕缕斜风缕缕寒</title>
-    <link href="https://blog.jqgsninimo.top/20090329A/"/>
-    <id>https://blog.jqgsninimo.top/20090329A/</id>
-    <published>2019-01-23T15:14:17.000Z</published>
-    <updated>2019-01-23T15:25:11.727Z</updated>
-    
-    <content type="html"><![CDATA[<p>这次来到上海，正赶上多雨的天气。<br>中原地区很少有连绵一周的阴雨天气，上海却<code>霪雨霏霏连月不开</code>达十数日，真是开了眼界。<br><a id="more"></a></p>
-<p>学生时代曾于地理书上知悉江淮流域的<code>梅雨季节</code>，但那大约在初夏，本不是早春该有的。<br>我未经历过江淮的雨季，但凭着<code>梅雨</code>两字已使我有了近乎切身的感触，遥想宋<code>永嘉四灵</code>之一赵师秀的《约客》：</p>
-<blockquote>
-<p>黄梅时节家家雨<br>春草池塘处处蛙<br>有约不来过夜半<br>闲敲棋子落灯花</p>
-</blockquote>
-<p>文连绵意悠长，略含酸微带粘，化不开的怅惘淡淡的，让人的心也醉了，慵懒于绵绵的梅雨中任时光恣意流淌。<br><code>闲敲棋子落灯花</code>正是梅雨特有的韵律。<br>紫芝先生能得此句足当<code>灵秀</code>之号，又何必妄自菲薄，谦称<code>一篇幸止有四十字，更增一字，吾末如之何矣</code>？</p>
-<p>当然，早春的雨自有不同于梅雨的特质。<br>就说我遇到的这场春潮，早初邂逅还是寒意阵阵，直有易安居士<code>乍暖还寒时候最难将息</code>之叹；<br>后则渐行渐暖，终有烟波钓徒<code>斜风细雨不须归</code>之慨。<br>此种情趣恰如郁达夫于《故都的秋》中提到的<code>一层秋雨一层凉</code>。所不同的，这里则应更为<code>一层春雨一层暖</code>了。<br>早春的雨，伴着尚凉的风，一层层带走冬的寒，一缕缕携来春的暖，徐徐装点着我们新的一年。<br>于是凝思一联记之：</p>
-<blockquote>
-<p>层层细雨层层暖<br>缕缕斜风缕缕寒</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这次来到上海，正赶上多雨的天气。&lt;br&gt;中原地区很少有连绵一周的阴雨天气，上海却&lt;code&gt;霪雨霏霏连月不开&lt;/code&gt;达十数日，真是开了眼界。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="文|技|艺|译" scheme="https://blog.jqgsninimo.top/categories/%E6%96%87-%E6%8A%80-%E8%89%BA-%E8%AF%91/"/>
-    
-    
-      <category term="随笔" scheme="https://blog.jqgsninimo.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
   
   <entry>
     <title>Excel行高列宽及其它</title>
@@ -141,6 +109,38 @@ spaceWidth=5像素 \nonumber
       <category term="探究" scheme="https://blog.jqgsninimo.top/tags/%E6%8E%A2%E7%A9%B6/"/>
     
       <category term="Excel" scheme="https://blog.jqgsninimo.top/tags/Excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>层层细雨层层暖·缕缕斜风缕缕寒</title>
+    <link href="https://blog.jqgsninimo.top/20090329A/"/>
+    <id>https://blog.jqgsninimo.top/20090329A/</id>
+    <published>2009-03-29T15:14:17.000Z</published>
+    <updated>2019-01-23T15:26:57.999Z</updated>
+    
+    <content type="html"><![CDATA[<p>这次来到上海，正赶上多雨的天气。<br>中原地区很少有连绵一周的阴雨天气，上海却<code>霪雨霏霏连月不开</code>达十数日，真是开了眼界。<br><a id="more"></a></p>
+<p>学生时代曾于地理书上知悉江淮流域的<code>梅雨季节</code>，但那大约在初夏，本不是早春该有的。<br>我未经历过江淮的雨季，但凭着<code>梅雨</code>两字已使我有了近乎切身的感触，遥想宋<code>永嘉四灵</code>之一赵师秀的《约客》：</p>
+<blockquote>
+<p>黄梅时节家家雨<br>春草池塘处处蛙<br>有约不来过夜半<br>闲敲棋子落灯花</p>
+</blockquote>
+<p>文连绵意悠长，略含酸微带粘，化不开的怅惘淡淡的，让人的心也醉了，慵懒于绵绵的梅雨中任时光恣意流淌。<br><code>闲敲棋子落灯花</code>正是梅雨特有的韵律。<br>紫芝先生能得此句足当<code>灵秀</code>之号，又何必妄自菲薄，谦称<code>一篇幸止有四十字，更增一字，吾末如之何矣</code>？</p>
+<p>当然，早春的雨自有不同于梅雨的特质。<br>就说我遇到的这场春潮，早初邂逅还是寒意阵阵，直有易安居士<code>乍暖还寒时候最难将息</code>之叹；<br>后则渐行渐暖，终有烟波钓徒<code>斜风细雨不须归</code>之慨。<br>此种情趣恰如郁达夫于《故都的秋》中提到的<code>一层秋雨一层凉</code>。所不同的，这里则应更为<code>一层春雨一层暖</code>了。<br>早春的雨，伴着尚凉的风，一层层带走冬的寒，一缕缕携来春的暖，徐徐装点着我们新的一年。<br>于是凝思一联记之：</p>
+<blockquote>
+<p>层层细雨层层暖<br>缕缕斜风缕缕寒</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这次来到上海，正赶上多雨的天气。&lt;br&gt;中原地区很少有连绵一周的阴雨天气，上海却&lt;code&gt;霪雨霏霏连月不开&lt;/code&gt;达十数日，真是开了眼界。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="文" scheme="https://blog.jqgsninimo.top/categories/%E6%96%87/"/>
+    
+    
+      <category term="随笔" scheme="https://blog.jqgsninimo.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
